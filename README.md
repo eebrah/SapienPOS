@@ -1,2 +1,2 @@
 # SapienPOS
-Web based, mobile firendly point-of-sale softwrae targetted at the informal economy
+Web based, mobile firendly point-of-sale software targetted at the informal economy
